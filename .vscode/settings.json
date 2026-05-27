@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "Dark+",
+  "window.menuBarVisibility": "classic",
+  "window.titleBarStyle": "native",
+  "workbench.iconTheme": "vs-seti",
+  "workbench.statusBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "workbench.editor.showTabs": "multiple",
+  "explorer.compactFolders": false,
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
